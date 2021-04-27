@@ -1,45 +1,81 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Milestone project Best Wellness
+## Project goals
+The goal of the project is to build a clean, appealing and intuitive website, that can attract new members and retain old members
+## UX
+**Goal for potential members**
 
-Welcome USER_NAME,
+The goal is to attract potential members so that they become members by showing them what the Gym has to offer
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+The Goals are:
+* That the website is 
+* xxx
 
-## Gitpod Reminders
+**Goal for retaining members**
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+The goal is to retain members of the Gym by showing them what goes on in Gym. 
 
-`python3 -m http.server`
+The Goals are:
+* That the website is 
+* xxx 
 
-A blue button should appear to click: _Make Public_,
+**Goal for site owners**
 
-Another blue button should appear to click: _Open Browser_.
+The Goal for the site owners is to xxx
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+The Goals are:
+*The the website is 
 
-A blue button should appear to click: _Make Public_,
+**User stories**
 
-Another blue button should appear to click: _Open Browser_.
+As a potential gym member:
+1. I want to easily understand what the gym has to offer as to the gym itself (machines) which group training they are offering and what I can gain from joining the gym (losing weight, better health)
+2. I want to find the prices and the location of the gym
+3. I want to find the times for the group training and the opening hours for the gym
+4. I want to easily navigate throughout the site to find content I seek.
+5. I want to find pictures of the gym
+6. I want to see the testimonials
+7. I want to see and read about the staff that works at the gym
+8. I want to find the best way to get in contact with the gym
+9. I want to find the schedule of the group classes
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+As a gym member:
+1. I want to easily find the schedule of the group training
+2. I want to find where I can book a Personal Trainer
+3. I want to book group classes
+4. I want to see new events
+5. I want to see new offers
+6. I want to see pictures of what is happening in the gym
 
-## Updates Since The Instructional Video
+## Design Choices
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+**Fonts**
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+**Icons**
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+**Colours**
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+**Styling**
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+**Background**
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+**Wireframes**
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+## Features
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+**Existing Features**
 
----
+**Features Left to Implement**
 
-Happy coding!
+## Technologies Used
+
+## Testing
+
+## Deployment
+
+## Credits
+
+**Content**
+
+**Media**
+
+**Acknowledgements**
