@@ -1,3 +1,236 @@
 @import url('https://fonts.googleapis.com/css2?family=Antonio:wght@300;400&family=Lato:ital,wght@0,300;1,300&display=swap');
 
 /*--------------------------------------------Heading*/
+
+
+
+body {
+    font-family: Lato;
+    color: #ffffff;
+}
+
+
+#logo {
+    font-family: "Lato";
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #ffffff;
+    float: left;
+    font-size: 180%;
+    margin-left: 70px;
+    margin-top: 50px;
+    
+    
+}
+
+#menu {
+    font-size: 100%;
+    list-style: none;
+    letter-spacing: 3px;
+    
+}
+
+#logo, menu {
+    line-height: 65px;
+}
+
+#menu li{
+    float: right;
+    margin-right: 70px;
+    margin-top: 70px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #ffffff;
+}
+
+.active {
+    border-bottom: 1px solid #ffffff;
+}
+
+
+#home {
+    background: url("../images/Crossfitness.jpg");
+    height: 700px;
+    background: cover no-repeat;
+    background-size: 100%;
+    margin-top: -15px;
+    
+}
+
+
+
+.vertical-center {
+    font-family: "Antonio", sans-serif;
+    font-size: 20px;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 70px; 
+}
+
+h1 {
+    font-size: 60px;
+    font-style: italic;
+    font-weight: 500;
+}
+
+.button {
+	margin-left: 150px;
+	padding: 0.75rem;
+	background-color: #54b848;
+	color: white;
+	border: none;
+	border-radius: 5px;
+}
+
+/*--------------------------------------------Section1*/
+
+#firsttext {
+    color: black;
+}
+
+#firsttext h2 {
+    text-align: center;
+    font-size: 50px;
+    margin-top: 40px;
+    font-family: "Antonio";
+    letter-spacing: 3px;
+}
+
+#firsttext p {
+    text-align: center;
+    font-family: "Lato";
+    font-size: 20px;
+    margin-top: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+
+/*--------------------------------------------Section pic-text*/
+
+.picture-boxes-container{
+    margin-top: 70px;
+}
+
+.picture-box-right {
+    float: right;
+    margin-right: 100px;
+}
+
+.picture-box-left{
+    float: left;
+    margin-left: 100px;
+}
+
+.picture-boxes-container::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.row {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.column-left {
+    float: left;
+    margin-left: 50px;
+    margin-right: 40px;
+    width: 600px;
+    padding: 10px;
+    height: 300px;
+    color: black;
+    font-family: "Lato";
+    font-size: 18px;
+}
+
+.column-right {
+    float: right;
+    margin-right: 80px;
+    width: 600px;
+    padding: 10px;
+    height: 300px;
+    color: black;
+    font-family: "Lato";
+    font-size: 18px;
+}
+
+/*--------------------------------------------Fotter*/
+
+
+#contact {
+    margin-bottom: 30px;
+    color: black;
+}
+
+.contact-boxes-container {
+    width: 66%;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.contact-box-left {
+    width: 250px;
+	float: left;
+}
+
+.contact-box-right {
+    width: 250px;
+    text-align: right;   
+	float: right;
+}
+
+.spacer {
+    clear: both;
+}
+
+.contact-box-center {
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    margin-bottom: -100px;
+    text-align: center;
+}
+
+th,
+td {
+    border-bottom: 1px solid black;
+}
+
+#wrapper {
+    margin-top: 20px;
+}
+
+.social {
+	background-color: #54b848;
+	padding: 1em;
+	text-align: center;
+    width: 100%;
+    height: 100px;
+    font-size: 1.2rem;
+}
+
+.social> span {
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 1.2rem;
+}
+
+.social > a {
+	color: #ffffff;
+	text-decoration: none;
+	padding: 0 15px;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+}
+
+footer > p {
+	color: silver;
+}
